@@ -1,1 +1,1 @@
-I built a air-bnb like clone where i built all the features present in airbnb.
+I built an Airbnb-like clone with all the features available on Airbnb.
